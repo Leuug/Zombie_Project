@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Infested City.ogg-3e4018634ed6dbb57ebf125226139402.oggstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/Infested City.ogg"
+dest_files=[ "res://.import/Infested City.ogg-3e4018634ed6dbb57ebf125226139402.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

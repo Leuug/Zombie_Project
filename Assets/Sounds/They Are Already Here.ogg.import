@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/They Are Already Here.ogg-eb7343fbd3d6be58e739dd5261ea3456.oggstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/They Are Already Here.ogg"
+dest_files=[ "res://.import/They Are Already Here.ogg-eb7343fbd3d6be58e739dd5261ea3456.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

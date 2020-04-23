@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Bite-SoundBible.com-2056759375.wav-dcd864c49a0599194757555769057a8a.sample"
+
+[deps]
+
+source_file="res://Assets/Sounds/Bite-SoundBible.com-2056759375.wav"
+dest_files=[ "res://.import/Bite-SoundBible.com-2056759375.wav-dcd864c49a0599194757555769057a8a.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

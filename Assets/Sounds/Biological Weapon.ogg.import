@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Biological Weapon.ogg-0bb3e39e239d618f61ce4bfa84b67bb1.oggstr"
+
+[deps]
+
+source_file="res://Assets/Sounds/Biological Weapon.ogg"
+dest_files=[ "res://.import/Biological Weapon.ogg-0bb3e39e239d618f61ce4bfa84b67bb1.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
